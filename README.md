@@ -1,7 +1,7 @@
 # Desafios-Typescript-SantanderDIO
 
 
-## resolução dos desafios, exercícios 1, 2, 3 e 4 Typescript completos.
+## Resolução dos desafios, exercícios 1, 2, 3 e 4 Typescript completos.
 
 
 Desafio 4: Consumindo API do site https://www.themoviedb.org/ CRUD completo.
